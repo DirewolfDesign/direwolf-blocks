@@ -1,6 +1,6 @@
 <?php
 /**
- * DireowlfBlocks admin.
+ * DirewolfBlocks admin.
  *
  * @package direwolfblocks
  */
