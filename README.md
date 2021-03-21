@@ -1,6 +1,6 @@
 # Custom WordPress Block Builder - DirewolfBlocks
 
-- Contributors: Direwolf Design
+- Contributors: [Direwolf Design](https://github.com/DirewolfDesign)
 - Tags: gutenberg, block, custom, meta, fields, templates
 - Requires at least: 5.5
 - Tested up to: 5.7
